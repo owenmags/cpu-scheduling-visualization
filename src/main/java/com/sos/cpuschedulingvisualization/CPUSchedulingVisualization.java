@@ -4,10 +4,16 @@
 
 package com.sos.cpuschedulingvisualization;
 
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Scanner;
+
 /**
  *
  * @author Nitro-5
  */
+
 class Process {
     int pid;
     int arrivalTime;
