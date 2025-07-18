@@ -24,7 +24,7 @@ Developed with **Java (Terminal/console)** and **JavaScript HTML (GUI)** version
 
 ### Web GUI
 
-1. Open `index.html` in your browser.
+1. Open `index.html` in browser.
 2. Enter number of processes.
 3. Fill in **Process ID**, **Arrival Time**, and **Burst Time**.
 4. Select the desired scheduling algorithm.
@@ -33,7 +33,7 @@ Developed with **Java (Terminal/console)** and **JavaScript HTML (GUI)** version
 
 ### Console Version (Java)
 
-1. Open the Java project in NetBeans.
+1. Open the Java project in NetBeans or Visual Studio Code.
 2. Run `Main.java` or `CPUSchedulingVisualization.java`.
 3. Follow the prompts to:
    - Choose scheduling algorithm
@@ -107,7 +107,7 @@ Developed with **Java (Terminal/console)** and **JavaScript HTML (GUI)** version
 | P4  | 8       | 4     | 9     | 13     | 1       | 5          |
 | P5  | 10      | 5     | 13    | 18     | 3       | 8          |
 
-Average Waiting Time: 0.80
+Average Waiting Time: 0.80,
 Average Turnaround Time: 3.80
 
 ## Team Contributions
