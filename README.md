@@ -61,22 +61,22 @@ Developed with **Java (Terminal/console)** and **JavaScript HTML (GUI)** version
 
 ## Screenshots
 
-### SRTF Simulation Example
-<img width="1366" height="768" alt="SRTF" src="https://github.com/user-attachments/assets/48536ea7-81dd-41ff-a8ec-e9f28a99a789" />
-
 ### FCFS Simulation Example
-<img width="1366" height="768" alt="FCFS" src="https://github.com/user-attachments/assets/d4f1dd08-e26a-4369-b2e3-4a412430aa58" />
+![FCFS](https://github.com/user-attachments/assets/a1022cf0-dccd-402c-ace6-c0b6091d28a4)
 
 ### SJF Simulation Example
-<img width="1366" height="768" alt="SJF" src="https://github.com/user-attachments/assets/27fd99ae-8e75-47ac-9779-7e842130bb79" />
+![SJF](https://github.com/user-attachments/assets/43449111-a0fa-4256-8319-c384e3e13c92)
+
+### SRTF Simulation Example
+![SRTF](https://github.com/user-attachments/assets/94d31548-9a6d-4bcb-9c38-d3181e0d1a5b)
 
 ### RR Simulation Example
-<img width="1366" height="768" alt="RR" src="https://github.com/user-attachments/assets/0388e191-80ed-44cc-8b51-f1d6610fc786" />
+![RR](https://github.com/user-attachments/assets/6a943ab8-54c0-492c-92d4-d58f5d522e26)
+![RR Results](https://github.com/user-attachments/assets/b3699476-a890-4b7a-b9cb-924dd5fc44a1)
 
 ### MLFQ Simulation Example
-<img width="1366" height="768" alt="MLFQ2" src="https://github.com/user-attachments/assets/7649110f-d5d6-4be0-9ceb-26841dfb0d42" />
-<img width="1366" height="768" alt="MLFQ1" src="https://github.com/user-attachments/assets/c85cf7a1-81de-4f32-b17a-f0ba969d2b09" />
-
+![MLFQ](https://github.com/user-attachments/assets/0549ae90-89ae-4fa2-a815-e0213029dba5)
+![MLFQ Results](https://github.com/user-attachments/assets/839c7d03-2b88-45f3-97c1-5772f27c1487)
 
 ---
 
